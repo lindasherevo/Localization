@@ -1,0 +1,22 @@
+Localization/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── __init__.py
+│   └── localization.py
+├── locales/
+│   ├── en/
+│   │   └── messages.json
+│   ├── es/
+│   │   └── messages.json
+├── tests/
+│   ├── __init__.py
+│   └── test_localization.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
